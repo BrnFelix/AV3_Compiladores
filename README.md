@@ -10,13 +10,13 @@ Leitura de um arquivo .java especificado no código.
 
 Identificação e classificação de tokens:
 
-Palavras-chave;
-Operadores;
-Delimitadores;
-Números inteiros e decimais;
-Identificadores;
-Geração de uma lista completa de tokens;
-Criação de uma tabela de símbolos (identificadores únicos);
+Palavras-chave; <br>
+Operadores; <br>
+Delimitadores; <br>
+Números inteiros e decimais; <br>
+Identificadores; <br>
+Geração de uma lista completa de tokens; <br>
+Criação de uma tabela de símbolos (identificadores únicos); <br>
 Código totalmente modularizado em classes separadas.
 
 ## 📂 Estrutura do Projeto
@@ -60,6 +60,6 @@ java src.lexer.LexicalAnalyzer
 
 ## 🧱 Tecnologias Utilizadas
 
-Java 21;
-Regex (java.util.regex) para análise léxica;
+Java 21; <br>
+Regex (java.util.regex) para análise léxica; <br>
 Coleções (List, Set, LinkedHashSet) para armazenar tokens e símbolos.
